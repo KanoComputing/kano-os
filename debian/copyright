@@ -1,0 +1,11 @@
+Files: *
+Copyright: 2016 Kano Computing Ltd.
+License: GPL-2+
+
+Files: *.png
+Copyright: 2016 Kano Computing Ltd.
+License: All rights reserved
+
+Files: kano-dashboard/src/gencmd_pi.cpp
+Copyright: 2012 Broadcom Europe Ltd
+Licence: BSD-3-clause

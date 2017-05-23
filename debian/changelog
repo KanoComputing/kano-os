@@ -1,0 +1,5 @@
+kano-os (3.10.0-1) unstable; urgency=low
+
+  * Initial release of package to link all top level OS packages.
+
+ -- Team Kano <dev@kano.me>  Tue, 23 May 2017 17:46:00 +0000

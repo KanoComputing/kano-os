@@ -1,0 +1,35 @@
+Source: kano-os
+Maintainer: Team Kano <dev@kano.me>
+Section: x11
+Priority: optional
+Standards-Version: 3.9.4
+Build-Depends: debhelper (>=9.0.0)
+
+Package: kano-os
+Architecture: all
+Depends:
+    ${shlibs:Depends},
+    ${misc:Depends},
+    kano-apps,
+    kano-credits,
+    kano-dashboard,
+    kano-desktop,
+    kano-draw,
+    kano-feedback,
+    kano-greeter,
+    kano-init,
+    kano-home-button,
+    kano-overworld,
+    kano-profile,
+    kano-settings,
+    kano-updater,
+    kano2-app,
+    make-apps,
+    make-light,
+    make-minecraft,
+    make-pong,
+    make-music,
+    make-snake,
+    linux-story,
+    overture
+Description: Main package for the Kano OS experience
