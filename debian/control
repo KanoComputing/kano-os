@@ -31,5 +31,6 @@ Depends:
     make-music,
     make-snake,
     linux-story,
-    overture
+    overture,
+    qmlmatrix
 Description: Meta package to group all top level experience apps in Kano OS
