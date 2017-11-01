@@ -1,3 +1,9 @@
+kano-os (3.14.0-0) unstable; urgency=low
+
+  * Added the new Make Me Talk (comment) app to the installed defaults
+
+ -- Team Kano <dev@kano.me>  Wed, 1 Nov 2017 17:13:00 +0100
+
 kano-os (3.11.0-0) unstable; urgency=low
 
   * Added qmlmatrix screensaver package as a dependency

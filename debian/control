@@ -10,6 +10,7 @@ Architecture: all
 Depends:
     ${shlibs:Depends},
     ${misc:Depends},
+    comment,
     kano-apps,
     kano-credits,
     kano-dashboard,
