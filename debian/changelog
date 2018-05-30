@@ -1,3 +1,10 @@
+kano-os (4.0.0-0) unstable; urgency=low
+
+  * Packages required for Stretch update
+  * Added kano-graphics-libs as a dependency
+
+ -- Team Kano <dev@kano.me>  Wed, 30 May 2018 13:50:00 +0100
+
 kano-os (3.11.0-0) unstable; urgency=low
 
   * Added qmlmatrix screensaver package as a dependency
