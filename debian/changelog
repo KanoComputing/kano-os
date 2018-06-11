@@ -2,8 +2,9 @@ kano-os (4.0.0-0) unstable; urgency=low
 
   * Packages required for Stretch update
   * Added kano-graphics-libs as a dependency
+  * Added kano-os-homedir-content package
 
- -- Team Kano <dev@kano.me>  Wed, 30 May 2018 13:50:00 +0100
+ -- Team Kano <dev@kano.me>  Mon, 11 Jun 2018 17:50:16 +0100
 
 kano-os (3.11.0-0) unstable; urgency=low
 
