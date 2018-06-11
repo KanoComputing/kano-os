@@ -14,6 +14,7 @@ Depends:
     kano-credits,
     kano-dashboard,
     kano-desktop,
+    kano-os-homedir-content,
     kano-draw,
     kano-feedback,
     kano-graphics-libs,
