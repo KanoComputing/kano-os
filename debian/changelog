@@ -1,3 +1,9 @@
+kano-os (3.16.2-0) unstable; urgency=low
+
+  * Backport: Added kano-platform-essential metapackage as a dependency
+
+ -- Team Kano <dev@kano.me>  Tue, 29 Jan 2019 11:50:00 +0000
+
 kano-os (3.11.0-0) unstable; urgency=low
 
   * Added qmlmatrix screensaver package as a dependency
