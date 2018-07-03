@@ -21,6 +21,7 @@ Depends:
     kano-init,
     kano-home-button,
     kano-overworld,
+    kano-platform-essential,
     kano-profile,
     kano-settings,
     kano-updater,
