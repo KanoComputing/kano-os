@@ -29,6 +29,7 @@ Depends:
     kano-updater,
     kano-vnc,
     kano2-app,
+    kit-app,
     make-apps,
     make-light,
     make-minecraft,
