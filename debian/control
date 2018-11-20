@@ -24,6 +24,7 @@ Depends:
     kano-overworld,
     kano-platform-essential,
     kano-profile,
+    kano-safe-mode,
     kano-screenshot,
     kano-settings,
     kano-updater,
