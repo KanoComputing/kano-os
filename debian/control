@@ -40,5 +40,6 @@ Depends:
     linux-story,
     overture,
     tactile,
-    qmlmatrix
+    qmlmatrix,
+    kano-jupyter
 Description: Meta package to group all top level experience apps in Kano OS
