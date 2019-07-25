@@ -1,5 +1,6 @@
 kano-os (4.3.0-0) unstable; urgency=low
 
+  * Added Mercury and Python bindings for new Kano World Services API
   * Added Kano Jupyter app to Kano OS
 
  -- Team Kano <dev@kano.me>  Tue, 02 Apr 2019 00:05:00 +0100
